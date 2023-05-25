@@ -165,6 +165,7 @@ class _TargetInfoScreenState extends State<TargetInfoScreen> {
                       keyBoardType: TextInputType.datetime),
                   const SizedBox(
                     height: 16,
+                    width: 16,
                   ),
                   MindCliksRoundedButton(
                     label: "Submit",
